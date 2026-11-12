@@ -67,9 +67,6 @@ python generate_data.py   # génère data/ventes_ecommerce_2024_2026.csv
 python analysis.py        # régénère les graphiques dans charts/ et affiche les insights
 ```
 
-##  Prochaine étape
-
-Construction d'un dashboard **Tableau Public** interactif (filtres par région/catégorie/période, KPI de marge en temps réel) à partir de ce même dataset — lien à venir.
 
 ---
-*Projet portfolio — données synthétiques construites avec des hypothèses métier réalistes, à des fins de démonstration de compétences en analyse de données (EDA, SQL, visualisation, storytelling data).*
+*Projet portfolio // données synthétiques construites avec des hypothèses métier réalistes, à des fins de démonstration de compétences en analyse de données (EDA, SQL, visualisation, storytelling data).*
